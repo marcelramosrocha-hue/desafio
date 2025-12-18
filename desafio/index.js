@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Ursão";
-let experienciaDoHeroi = 7900;
+let experienciaDoHeroi = 900;
 
 
 if (experienciaDoHeroi <= 1000) {
